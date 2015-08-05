@@ -20,3 +20,7 @@ The unpacked extension will be placed into the `dist` subdirectory.
 To run and test the extension, navigate to `chrome://extensions/`, and click the
 `Load unpacked extension` button, and select the `dist` directory created during the
 build step.
+
+##Example
+The following playlist was created in [this](https://www.youtube.com/watch?v=jgpJVI3tDbY) YouTube video.
+![alt tag](https://github.com/ichub/youtube-playlist/blob/master/screenshot.png)
